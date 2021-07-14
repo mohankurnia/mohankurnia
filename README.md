@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohan Kurnia from Indonesia
+- 👋 Hi, I’m Mohan Kurnia Wardana from Indonesia
 - 👀 I’m interested in Programming, Design, and Editing
 - 🌱 I’m currently learning more about back-end programming, but i learn front-end too
 - 💞️ I’m looking to collaborate on some awesome project
