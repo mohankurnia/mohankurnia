@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohan Kurnia Wardana from Indonesia
-- 👀 I’m interested in Programming, Design, and Editing
-- 🌱 I’m currently learning more about back-end programming, but i learn front-end too
+- 👀 I’m interested in Developing Website
+- 🌱 I’m currently learning Front-end Web Development
 - 💞️ I’m looking to collaborate on some awesome project
 - 📫 How to reach me, just dm at my instagram "@mo.hannz" 
 
